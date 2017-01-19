@@ -5,11 +5,11 @@
     "main": "server.js",
     "author": "Ahmed Haque",
     "dependencies" : {
-        "express"    : "~4.7.2",
-        "mongoose"   : "~4.1.0",
-        "morgan"     : "~1.2.2",
-        "body-parser": "~1.5.2",
-        "jsonwebtoken": "^5.0.2",
-        "method-override": "~2.1.2"
+        "express"    : "~4.14.0",
+        "mongoose"   : "~4.7.7",
+        "morgan"     : "~1.7.0",
+        "body-parser": "~1.16.0",
+        "jsonwebtoken": "7.2.1",
+        "method-override": "~2.3.7"
     }
 }
